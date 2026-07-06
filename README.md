@@ -1,1 +1,1 @@
-# Receipt
+# Receipts
